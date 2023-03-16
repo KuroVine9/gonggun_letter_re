@@ -1,8 +1,10 @@
 import React, {useState} from 'react';
 import Letter from "./Letter";
+import Egg from "./Egg";
 
 function App() {
     const [state, setState] = useState(false)
+    const [egg, setEgg] = useState(false)
 
     return (
         <div className="Button-Area">
@@ -15,6 +17,9 @@ function App() {
                  alt="누굴까"
                  onClick={() => setState(!state)}/>
             <Letter state={state}/>
+            <button className="inv" style={{border: "none"}} onClick={() => setEgg(!egg)}>
+                <Egg state={egg}/>
+            </button>
         </div>
 
     )
