@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/gonggun_letter_re/static/css/main.e6c13ad2.css",
-    "main.js": "/gonggun_letter_re/static/js/main.5435ac3d.js",
+    "main.js": "/gonggun_letter_re/static/js/main.72e1786d.js",
     "static/js/787.e075a922.chunk.js": "/gonggun_letter_re/static/js/787.e075a922.chunk.js",
     "static/media/hand1.png": "/gonggun_letter_re/static/media/hand1.f090c40e43b32eb4fce2.png",
     "static/media/hand2.png": "/gonggun_letter_re/static/media/hand2.68ad5e30b6d58de35ab8.png",
     "static/media/hand0.png": "/gonggun_letter_re/static/media/hand0.4589ca642bc13049cb25.png",
     "index.html": "/gonggun_letter_re/index.html",
     "main.e6c13ad2.css.map": "/gonggun_letter_re/static/css/main.e6c13ad2.css.map",
-    "main.5435ac3d.js.map": "/gonggun_letter_re/static/js/main.5435ac3d.js.map",
+    "main.72e1786d.js.map": "/gonggun_letter_re/static/js/main.72e1786d.js.map",
     "787.e075a922.chunk.js.map": "/gonggun_letter_re/static/js/787.e075a922.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5435ac3d.js"
+    "static/js/main.72e1786d.js"
   ]
 }
